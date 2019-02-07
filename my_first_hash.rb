@@ -1,7 +1,5 @@
 def my_hash
-  
-
-  
+  my_hash = {"state" => "florida", "city" => "boca raton"}
 end
 
 
